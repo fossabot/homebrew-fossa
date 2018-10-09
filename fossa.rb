@@ -3,7 +3,7 @@ class Fossa < Formula
   homepage "https://github.com/zlav/fossa-cli"
   url "https://github.com/zlav/fossa-cli/blob/master/cmd/fossa/fossa"
   sha256 "e44a38280dedc1770ff65d0693afc6f45eb3c42c05490bb37947383be4835822"
-  version "0.7.11"
+  version "0.7.12"
 
   bottle :unneeded
 
