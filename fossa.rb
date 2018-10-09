@@ -2,7 +2,7 @@ class Fossa < Formula
   desc "command line tool for fossa license scanning technology"
   homepage "https://github.com/zlav/fossa-cli"
   url "https://github.com/zlav/fossa-cli/blob/master/cmd/fossa/fossa"
-  sha256 "e44a38280dedc1770ff65d0693afc6f45eb3c42c05490bb37947383be4835822"
+  sha256 "2ffce73ec182bdbab883a04ec50f5fcf8bc1cb1eb1580d312140525951ad32c4"
   version "0.7.12"
 
   bottle :unneeded
